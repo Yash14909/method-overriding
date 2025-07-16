@@ -1,0 +1,23 @@
+
+### ✅ `.gitignore`
+
+```gitignore
+# Ignore executable files
+*.exe
+*.out
+*.o
+
+# Ignore build files
+build/
+*.log
+
+# OS-specific ignores
+.DS_Store
+Thumbs.db
+
+# IDE/editor config files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.swp
