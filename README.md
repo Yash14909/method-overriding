@@ -84,7 +84,6 @@ Why declaring destructors as virtual in base classes is important.
 
 Yashvreddy41 
 BCA (Commerce)
-Savitribai Phule Pune University
 ---
 
 
